@@ -1,0 +1,11 @@
+.male {
+  border: 2px solid #abcdef;
+}
+.female {
+  border: 2px solid pink;
+}
+
+button {
+  outline: none;
+}
+
